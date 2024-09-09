@@ -23,10 +23,8 @@ Este projeto processa e formata um arquivo Excel contendo informações sobre re
    ```bash
    pip install pandas openpyxl
 
-python transporte_dados_redirecionamento.py
+   python transporte_dados_redirecionamento.py
 
 ### Instruções para Personalização
 
-- **transporte_dados_redirecionamento.ipynb:**
-- **Pedro Vieira Cecere**
-- **E-mail: pedro-cecere@hotmail.com** 
+- **Pedro Vieira Cecere e E-mail: pedro-cecere@hotmail.com** 
